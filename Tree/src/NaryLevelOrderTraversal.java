@@ -28,7 +28,7 @@ public class NaryLevelOrderTraversal {
         List<List<Integer>> answer = new LinkedList<>();
         List<Integer> levelAnswer = new LinkedList<>();
 
-        Queue<Node> queue = new LinkedList();
+        Queue<Node> queue = new LinkedList<>();
         queue.add(root);
 
         while (queue.size() != 0) {

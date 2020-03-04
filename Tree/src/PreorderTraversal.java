@@ -23,7 +23,7 @@ public class PreorderTraversal {
         if (root == null)
             return new ArrayList<>();
 
-        Stack<TreeNode> stack = new Stack();
+        Stack<TreeNode> stack = new Stack<>();
         stack.push(root);
 
         while (!stack.empty()) {

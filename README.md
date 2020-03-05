@@ -17,6 +17,10 @@ This repo is for personal practice
 |78|[Subsets](https://github.com/DuannYu/LeetCode/blob/master/Search/src/combinations/Subsets.java)|
 |79|[Word Search](https://github.com/DuannYu/LeetCode/blob/master/Search/src/search/WordSearch.java)|
 |90|[Subset II](https://github.com/DuannYu/LeetCode/blob/master/Search/src/combinations/SubsetsII.java)|
+|101|[Symmetric Tree](https://github.com/DuannYu/LeetCode/blob/master/Tree/src/SymmetricTree.java)|
+|104|[Maximum Depth of Binary Tree](https://github.com/DuannYu/LeetCode/blob/master/Tree/src/MaxDepth.java)|
+|110|[Balanced Binary Tree](https://github.com/DuannYu/LeetCode/blob/master/Tree/src/BalancedBT.java)|
+|111|[Minimum Depth of Binary Tree](https://github.com/DuannYu/LeetCode/blob/master/Tree/src/MinDepth.java)|
 |144|[Binary Tree Preorder Traversal](https://github.com/DuannYu/LeetCode/blob/master/Tree/src/PreorderTraversal.java)|
 |145|[Binary Tree Postorder Traversal](https://github.com/DuannYu/LeetCode/blob/master/Tree/src/PostorderTraversal.java)|
 |198|[House Robber](https://github.com/DuannYu/LeetCode/blob/master/Dynamic%20Processing/src/HouseRobber.java)|
@@ -24,12 +28,16 @@ This repo is for personal practice
 |216|[Combination Sum III](https://github.com/DuannYu/LeetCode/blob/master/Search/src/combinations/CombinationSumIII.java)|
 |303|[Range Sum Query - Immutable](https://github.com/DuannYu/LeetCode/blob/master/Dynamic%20Processing/src/RangeSumQuery.java)|
 |429|[N-ary Tree Level Order Traversal](https://github.com/DuannYu/LeetCode/blob/master/Tree/src/NaryLevelOrderTraversal.java)|
+|489|[N-ary Tree Preorder Traversal](https://github.com/DuannYu/LeetCode/blob/master/Tree/src/NaryTreePreorderTraversal.java)|
+|572|[Subtree of Another Tree](https://github.com/DuannYu/LeetCode/blob/master/Tree/src/Subtree.java)|
+|590|[N-ary Tree Postorder Traversal](https://github.com/DuannYu/LeetCode/blob/master/Tree/src/NaryTreePostorderTraversal.java)|
 |746|[Min Cost Climbing Stairs](https://github.com/DuannYu/LeetCode/blob/master/Dynamic%20Processing/src/MinCostClimbStairs.java)|
 |784|[Letter Case Permutation](https://github.com/DuannYu/LeetCode/blob/master/Search/src/permutation/LetterCasePermutation.java)|
 |818|[Race Car](https://github.com/DuannYu/LeetCode/blob/master/Dynamic%20Processing/src/RaceCar.java)|
 |845|[Longest Mountain in Array](https://github.com/DuannYu/LeetCode/blob/master/Dynamic%20Processing/src/LongestMountain.java)|
 |926|[Flip String to Monotone Increasing](https://github.com/DuannYu/LeetCode/blob/master/Dynamic%20Processing/src/MonotoneIncreasing.java)|
 |943|[Find the Shortest Superstring](https://github.com/DuannYu/LeetCode/blob/master/Search/src/permutation/ShortestSuperstring.java)|
+|987|[Vertical Order Traversal of a Binary Tree](https://github.com/DuannYu/LeetCode/blob/master/Tree/src/VerticalOrderTraversal.java)|
 
 
 

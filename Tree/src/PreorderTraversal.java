@@ -31,8 +31,8 @@ public class PreorderTraversal {
             answer.add(treeNode.val);
             stack.pop();
 
-            if (treeNode.left != null) stack.push(treeNode.right);
-            if (treeNode.right != null) stack.push(treeNode.left);
+            if (treeNode.right != null) stack.push(treeNode.right);
+            if (treeNode.left != null) stack.push(treeNode.left);
         }
 
         return answer;

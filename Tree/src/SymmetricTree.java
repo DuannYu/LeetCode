@@ -23,13 +23,6 @@ public class SymmetricTree {
         left(root.left);
         right(root.right);
 
-        for (int elem : leftList) {
-            System.out.print(elem);
-        }
-
-        for (int elem : rightList) {
-            System.out.print(elem);
-        }
         return Arrays.equals(leftList.toArray(), rightList.toArray());
     }
 

@@ -14,7 +14,7 @@
 |589|[N-ary Tree Preorder Traversal](###N-ary-Tree-Traversal)|
 |572|[Subtree of Another Tree](子树的判断)|
 |590|[N-ary Tree Postorder Traversal](###N-ary-Tree-Traversal)|
-|987||
+|987|Vertical Order Traversal of a Binary Tree|
 
 **序**是指遍历根结点的先后顺序。前序遍历顺序为根结点->左子树->右子树，中序则是左->根->右，后序为左->右->根。
 
@@ -26,7 +26,7 @@
 ### 前序遍历
 对于前序遍历，核心是遇到根结点后首先遍历其本身。下面举个例子来说明堆栈的作用。有如下图所示二叉树，
 
-图
+[123](https://github.com/DuannYu/LeetCode/blob/master/Images/BT.png)
 
 首先将根结点加入堆栈,每次只检测栈顶结点，当堆栈为空时，遍历结束。注意向堆栈中加入结点时应先右后左，这样从栈顶pop时才能首先遍历到左子结点。
 

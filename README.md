@@ -9,12 +9,6 @@ This repo is for personal practice(Java or Python)
 
 参考：[huahua大神的题目详细分类表格](https://docs.google.com/spreadsheets/d/1SbpY-04Cz8EWw3A_LBUmDEXKUMO31DBjfeMoA0dlfIA/edit#gid=1674276502)
 # Problem List
-## Catalog
-[1-100](##1-100)
-
-[100-200](##100-200)
-
-[200-](##200-)
 ## 1-100
 
 |#|Problems|

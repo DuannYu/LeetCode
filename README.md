@@ -33,11 +33,16 @@ This repo is for personal practice(Java or Python)
 |#|Problems|
 |-|--|
 |101|[Symmetric Tree](https://github.com/DuannYu/LeetCode/blob/master/Tree/src/SymmetricTree.java)|
+|102|[Binary Tree Level Order Traversal](https://github.com/DuannYu/LeetCode/blob/master/Tree/src/LevelOrderTraversal.java)|
 |104|[Maximum Depth of Binary Tree](https://github.com/DuannYu/LeetCode/blob/master/Tree/src/MaxDepth.java)|
+|107|[Binary Tree Level Order Traversal II](https://github.com/DuannYu/LeetCode/blob/master/Tree/src/LevelOrderTraversalII.java)|
 |110|[Balanced Binary Tree](https://github.com/DuannYu/LeetCode/blob/master/Tree/src/BalancedBT.java)|
 |111|[Minimum Depth of Binary Tree](https://github.com/DuannYu/LeetCode/blob/master/Tree/src/MinDepth.java)|
 |144|[Binary Tree Preorder Traversal](https://github.com/DuannYu/LeetCode/blob/master/Tree/src/PreorderTraversal.java)|
 |145|[Binary Tree Postorder Traversal](https://github.com/DuannYu/LeetCode/blob/master/Tree/src/PostorderTraversal.java)|
+|153|[Find Minimum in Rotated Sorted Array](https://github.com/DuannYu/LeetCode/blob/master/DivideConquer/src/MinimumInRotatedSortedArray.java)|
+|154|[Find Minimum in Rotated Sorted Array II](https://github.com/DuannYu/LeetCode/blob/master/DivideConquer/src/MinimumInRotatedSortedArrayII.java)|
+|169|[Majority Element](https://github.com/DuannYu/LeetCode/blob/master/DivideConquer/src/MajorityElement.java)|
 |198|[House Robber](https://github.com/DuannYu/LeetCode/blob/master/Dynamic%20Processing/src/HouseRobber.java)|
 ## 200-
 |#|Problems|

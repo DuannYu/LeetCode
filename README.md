@@ -6,6 +6,7 @@ This repo is for personal practice(Java or Python)
 |[Tree](https://github.com/DuannYu/LeetCode/tree/master/Tree/src)|遍历、|
 |[Search](https://github.com/DuannYu/LeetCode/tree/master/Search/src)|排列、组合、DFS|
 |[Dynamic Programming](https://github.com/DuannYu/LeetCode/tree/master/Dynamic%20Processing/src)|备忘录|
+|[Sort](https://github.com/DuannYu/LeetCode/blob/master/Others/src)|快速、堆、计数、归并|
 
 参考：[huahua大神的题目详细分类表格](https://docs.google.com/spreadsheets/d/1SbpY-04Cz8EWw3A_LBUmDEXKUMO31DBjfeMoA0dlfIA/edit#gid=1674276502)
 # Problem List
@@ -59,7 +60,7 @@ This repo is for personal practice(Java or Python)
 |784|[Letter Case Permutation](https://github.com/DuannYu/LeetCode/blob/master/Search/src/permutation/LetterCasePermutation.java)|
 |818|[Race Car](https://github.com/DuannYu/LeetCode/blob/master/Dynamic%20Processing/src/RaceCar.java)|
 |845|[Longest Mountain in Array](https://github.com/DuannYu/LeetCode/blob/master/Dynamic%20Processing/src/LongestMountain.java)|
-|912|Sort an Array|
+|912|[Sort an Array](https://github.com/DuannYu/LeetCode/blob/master/Others/src/SortAlgo.java)|
 |926|[Flip String to Monotone Increasing](https://github.com/DuannYu/LeetCode/blob/master/Dynamic%20Processing/src/MonotoneIncreasing.java)|
 |943|[Find the Shortest Superstring](https://github.com/DuannYu/LeetCode/blob/master/Search/src/permutation/ShortestSuperstring.java)|
 |987|[Vertical Order Traversal of a Binary Tree](https://github.com/DuannYu/LeetCode/blob/master/Tree/src/VerticalOrderTraversal.java)|

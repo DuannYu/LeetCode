@@ -59,6 +59,7 @@ This repo is for personal practice(Java or Python)
 |784|[Letter Case Permutation](https://github.com/DuannYu/LeetCode/blob/master/Search/src/permutation/LetterCasePermutation.java)|
 |818|[Race Car](https://github.com/DuannYu/LeetCode/blob/master/Dynamic%20Processing/src/RaceCar.java)|
 |845|[Longest Mountain in Array](https://github.com/DuannYu/LeetCode/blob/master/Dynamic%20Processing/src/LongestMountain.java)|
+|912|Sort an Array|
 |926|[Flip String to Monotone Increasing](https://github.com/DuannYu/LeetCode/blob/master/Dynamic%20Processing/src/MonotoneIncreasing.java)|
 |943|[Find the Shortest Superstring](https://github.com/DuannYu/LeetCode/blob/master/Search/src/permutation/ShortestSuperstring.java)|
 |987|[Vertical Order Traversal of a Binary Tree](https://github.com/DuannYu/LeetCode/blob/master/Tree/src/VerticalOrderTraversal.java)|

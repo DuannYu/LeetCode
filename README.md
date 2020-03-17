@@ -7,6 +7,7 @@ This repo is for personal practice(Java or Python)
 |[Search](https://github.com/DuannYu/LeetCode/tree/master/Search/src)|排列、组合、DFS|
 |[Dynamic Programming](https://github.com/DuannYu/LeetCode/tree/master/Dynamic%20Processing/src)|备忘录|
 |[Sort](https://github.com/DuannYu/LeetCode/blob/master/Others/src)|快速、堆、计数、归并|
+|List|反转|
 
 参考：[huahua大神的题目详细分类表格](https://docs.google.com/spreadsheets/d/1SbpY-04Cz8EWw3A_LBUmDEXKUMO31DBjfeMoA0dlfIA/edit#gid=1674276502)
 # Problem List
@@ -16,6 +17,9 @@ This repo is for personal practice(Java or Python)
 |-|--|
 |1|[TwoSum](https://github.com/DuannYu/LeetCode/blob/master/Search/src/TwoSum.java)|
 |17|[Letter Combinations of a Phone Number](https://github.com/DuannYu/LeetCode/blob/master/Search/src/combinations/LetterCombinations.java)|
+|21|Merge Two Sorted Lists|
+|23|Merge k Sorted Lists|
+|24|Swap Nodes in Pairs|
 |39|[Combination Sum](https://github.com/DuannYu/LeetCode/blob/master/Search/src/combinations/CombinationSum.java)|
 |40|[Combination Sum II](https://github.com/DuannYu/LeetCode/blob/master/Search/src/combinations/CombinationSum_II.java)|
 |46|[Permutations](https://github.com/DuannYu/LeetCode/blob/master/Search/src/permutation/Permutations.java)|
@@ -39,8 +43,12 @@ This repo is for personal practice(Java or Python)
 |107|[Binary Tree Level Order Traversal II](https://github.com/DuannYu/LeetCode/blob/master/Tree/src/LevelOrderTraversalII.java)|
 |110|[Balanced Binary Tree](https://github.com/DuannYu/LeetCode/blob/master/Tree/src/BalancedBT.java)|
 |111|[Minimum Depth of Binary Tree](https://github.com/DuannYu/LeetCode/blob/master/Tree/src/MinDepth.java)|
+|141|Linked List Cycle|
+|142|Linked List Cycle II|
 |144|[Binary Tree Preorder Traversal](https://github.com/DuannYu/LeetCode/blob/master/Tree/src/PreorderTraversal.java)|
 |145|[Binary Tree Postorder Traversal](https://github.com/DuannYu/LeetCode/blob/master/Tree/src/PostorderTraversal.java)|
+|147|Insertion Sort List|
+|148|Sort List|
 |153|[Find Minimum in Rotated Sorted Array](https://github.com/DuannYu/LeetCode/blob/master/DivideConquer/src/MinimumInRotatedSortedArray.java)|
 |154|[Find Minimum in Rotated Sorted Array II](https://github.com/DuannYu/LeetCode/blob/master/DivideConquer/src/MinimumInRotatedSortedArrayII.java)|
 |169|[Majority Element](https://github.com/DuannYu/LeetCode/blob/master/DivideConquer/src/MajorityElement.java)|
@@ -48,6 +56,7 @@ This repo is for personal practice(Java or Python)
 ## 200-
 |#|Problems|
 |-|--|
+|206|Reverse Linked List|
 |212|[Word Search II](https://github.com/DuannYu/LeetCode/blob/master/Search/src/search/WordSearch2.java)|
 |216|[Combination Sum III](https://github.com/DuannYu/LeetCode/blob/master/Search/src/combinations/CombinationSumIII.java)|
 |303|[Range Sum Query - Immutable](https://github.com/DuannYu/LeetCode/blob/master/Dynamic%20Processing/src/RangeSumQuery.java)|

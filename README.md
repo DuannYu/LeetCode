@@ -18,15 +18,19 @@ This repo is for personal practice(Java or Python)
 |1|[TwoSum](https://github.com/DuannYu/LeetCode/blob/master/Search/src/TwoSum.java)|
 |17|[Letter Combinations of a Phone Number](https://github.com/DuannYu/LeetCode/blob/master/Search/src/combinations/LetterCombinations.java)|
 |21|Merge Two Sorted Lists|
-|23|Merge k Sorted Lists|
-|24|Swap Nodes in Pairs|
+|23|[Merge k Sorted Lists](https://github.com/DuannYu/LeetCode/blob/master/Others/src/ListAlgo/MergeSortedLists.java)|
+|24|[Swap Nodes in Pairs](https://github.com/DuannYu/LeetCode/blob/master/Others/src/ListAlgo/SwapNodesInPairs.java)|
+|33|Search in Rotated Sorted Array|
+|35|Search Insert Position|
 |39|[Combination Sum](https://github.com/DuannYu/LeetCode/blob/master/Search/src/combinations/CombinationSum.java)|
 |40|[Combination Sum II](https://github.com/DuannYu/LeetCode/blob/master/Search/src/combinations/CombinationSum_II.java)|
 |46|[Permutations](https://github.com/DuannYu/LeetCode/blob/master/Search/src/permutation/Permutations.java)|
 |51|[N-Queens](https://github.com/DuannYu/LeetCode/blob/master/Search/src/search/NQueens.java)|
 |52|[N-Queens II](https://github.com/DuannYu/LeetCode/blob/master/Search/src/search/NQueens2.java)|
 |62|[Unique Paths](https://github.com/DuannYu/LeetCode/blob/master/Dynamic%20Processing/src/UniquePaths.java)|
+|69|Sqrt(x)|
 |70|[Climbing Stairs](https://github.com/DuannYu/LeetCode/blob/master/Dynamic%20Processing/src/ClimbingStairs.java)|
+|74|Search a 2D Matrix|
 |77|[Combinations](https://github.com/DuannYu/LeetCode/blob/master/Search/src/combinations/Combinations.java)|
 |78|[Subsets](https://github.com/DuannYu/LeetCode/blob/master/Search/src/combinations/Subsets.java)|
 |79|[Word Search](https://github.com/DuannYu/LeetCode/blob/master/Search/src/search/WordSearch.java)|
@@ -46,11 +50,11 @@ This repo is for personal practice(Java or Python)
 |108|Convert Sorted Array to Binary Search Tree|
 |110|[Balanced Binary Tree](https://github.com/DuannYu/LeetCode/blob/master/Tree/src/BalancedBT.java)|
 |111|[Minimum Depth of Binary Tree](https://github.com/DuannYu/LeetCode/blob/master/Tree/src/MinDepth.java)|
-|141|Linked List Cycle|
+|141|[Linked List Cycle](https://github.com/DuannYu/LeetCode/blob/master/Others/src/ListAlgo/LinkedListCycle.java)|
 |142|Linked List Cycle II|
 |144|[Binary Tree Preorder Traversal](https://github.com/DuannYu/LeetCode/blob/master/Tree/src/PreorderTraversal.java)|
 |145|[Binary Tree Postorder Traversal](https://github.com/DuannYu/LeetCode/blob/master/Tree/src/PostorderTraversal.java)|
-|147|Insertion Sort List|
+|147|[Insertion Sort List](https://github.com/DuannYu/LeetCode/blob/master/Others/src/ListAlgo/InsertSortList.java)|
 |148|Sort List|
 |153|[Find Minimum in Rotated Sorted Array](https://github.com/DuannYu/LeetCode/blob/master/DivideConquer/src/MinimumInRotatedSortedArray.java)|
 |154|[Find Minimum in Rotated Sorted Array II](https://github.com/DuannYu/LeetCode/blob/master/DivideConquer/src/MinimumInRotatedSortedArrayII.java)|
@@ -59,7 +63,7 @@ This repo is for personal practice(Java or Python)
 ## 200-
 |#|Problems|
 |-|--|
-|206|Reverse Linked List|
+|206|[Reverse Linked List](https://github.com/DuannYu/LeetCode/blob/master/Others/src/ListAlgo/ReverseLinkedList.java)|
 |212|[Word Search II](https://github.com/DuannYu/LeetCode/blob/master/Search/src/search/WordSearch2.java)|
 |216|[Combination Sum III](https://github.com/DuannYu/LeetCode/blob/master/Search/src/combinations/CombinationSumIII.java)|
 |230|Kth Smallest Element in a BST|

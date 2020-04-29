@@ -16,6 +16,13 @@ This repo is for personal practice(Java or Python)
 |#|Problems|
 |-|--|
 |1|[TwoSum](https://github.com/DuannYu/LeetCode/blob/master/Search/src/TwoSum.java)|
+|2|Add Two Numbers|
+|3|Longest Substring Without Repeating Characters|
+|5|Longest Palindromic Substring|
+|6|ZigZag Conversion|
+|7|Reverse Integer|
+|8|String to Integer|
+|9|Palindrome Number|
 |17|[Letter Combinations of a Phone Number](https://github.com/DuannYu/LeetCode/blob/master/Search/src/combinations/LetterCombinations.java)|
 |21|Merge Two Sorted Lists|
 |23|[Merge k Sorted Lists](https://github.com/DuannYu/LeetCode/blob/master/Others/src/ListAlgo/MergeSortedLists.java)|
